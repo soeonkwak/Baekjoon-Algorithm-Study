@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Git Bash test");
         System.out.println("Git Bash test22");
         System.out.println("add GitBashTest branch line!");
+        System.out.println("Hi I'm remoteB");
     }
 }
