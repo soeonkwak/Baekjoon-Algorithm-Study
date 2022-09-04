@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Git Bash test22");
         System.out.println("add GitBashTest branch line!");
         System.out.println("Hi I'm remoteB");
+        System.out.println("add branch0905 new line!");
+        System.out.println("add branch0905 new line2222!");
     }
 }
